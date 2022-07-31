@@ -1,0 +1,30 @@
+[
+  {
+    "uid": "usr1",
+    "username": "Subarna Rijal",
+    "password": "password",
+    "userToken": "151asd5czxc",
+    "email": "subarna@gmail.com"
+  },
+  {
+    "uid": "usr2",
+    "username": "Janak Singh",
+    "password": "password",
+    "userToken": "42a2s51asd5czxc",
+    "email": "janak@gmail.com"
+  },
+  {
+    "uid": "usr3",
+    "username": "David Basnet",
+    "password": "password",
+    "userToken": "151asd1s5czxc",
+    "email": "david@gmail.com"
+  },
+  {
+    "uid": "usr7",
+    "username": "Pratik Subedi",
+    "password": "password",
+    "userToken": "15aad51asd5czxc",
+    "email": "pratik@gmail.com"
+  }
+]

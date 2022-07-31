@@ -1,0 +1,25 @@
+{
+  "name": "quasar-app-extension-rasello-user-management",
+  "version": "0.0.1",
+  "description": "A Quasar App Extension",
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "devDependencies": {
+    "axios-mock-server": "^0.19.1"
+  }
+}
